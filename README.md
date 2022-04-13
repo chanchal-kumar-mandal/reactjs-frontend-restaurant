@@ -5,7 +5,7 @@ This is advanced modern Restaurant Frontend application on reactjs functio based
 
 <img width="1440" alt="Screen Shot 2022-04-13 at 1 20 35 PM" src="https://user-images.githubusercontent.com/14269798/163127677-b994f1f3-d240-431e-91e1-5e24159322ec.png">
 
-<img width="1440" alt="Screen Shot 2022-04-13 at 1 20 45 PM" src="https://user-images.githubusercontent.com/14269798/163127730-d54cd621-dc8b-42af-9901-ea7e2f1d2568.png">
+<img width="1440" alt="Screen Shot 2022-04-13 at 1 53 15 PM" src="https://user-images.githubusercontent.com/14269798/163133164-93ecbf5c-9cac-47d6-a7c0-7987fc407bcd.png">
 
 <img width="1440" alt="Screen Shot 2022-04-13 at 1 21 01 PM" src="https://user-images.githubusercontent.com/14269798/163127762-508bc54f-0c3a-4481-acf0-aaf5d9dec3e9.png">
 

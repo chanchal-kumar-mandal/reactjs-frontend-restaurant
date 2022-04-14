@@ -25,6 +25,22 @@ This is advanced modern Restaurant Frontend application on reactjs functio based
 
 <img width="1440" alt="Screen Shot 2022-04-14 at 9 51 35 PM" src="https://user-images.githubusercontent.com/14269798/163431876-772bdf39-d3a2-4b39-af08-e139e8e91b8b.png">
 
+<img width="1440" alt="Screen Shot 2022-04-14 at 9 57 39 PM" src="https://user-images.githubusercontent.com/14269798/163433022-136ff94a-967e-4173-a075-2fa47be32e39.png">
+
+<img width="1440" alt="Screen Shot 2022-04-14 at 9 57 46 PM" src="https://user-images.githubusercontent.com/14269798/163433045-ad68b9ba-2ab1-4858-84fd-461871710a4e.png">
+
+<img width="1440" alt="Screen Shot 2022-04-14 at 9 58 03 PM" src="https://user-images.githubusercontent.com/14269798/163433052-6ef475cf-0d13-41b7-946b-f3c04152c691.png">
+
+<img width="1440" alt="Screen Shot 2022-04-14 at 9 58 15 PM" src="https://user-images.githubusercontent.com/14269798/163433055-b77fbba7-5254-4783-b0af-264452121230.png">
+
+<img width="1440" alt="Screen Shot 2022-04-14 at 9 58 26 PM" src="https://user-images.githubusercontent.com/14269798/163433127-7592ef20-c8ad-495d-ac1d-48e6bcc71329.png">
+
+<img width="1440" alt="Screen Shot 2022-04-14 at 9 58 34 PM" src="https://user-images.githubusercontent.com/14269798/163433162-8cb15885-c8ad-40e1-9400-90524628e05a.png">
+
+<img width="1440" alt="Screen Shot 2022-04-14 at 9 58 38 PM" src="https://user-images.githubusercontent.com/14269798/163433167-c35c2a81-61ff-4d74-bfdc-33921415bec9.png">
+
+<img width="1440" alt="Screen Shot 2022-04-14 at 9 58 44 PM" src="https://user-images.githubusercontent.com/14269798/163433172-9b0acd4b-3ac8-45ee-9d6e-134f7a5d6dfa.png">
+
 
 ## Requirements
 

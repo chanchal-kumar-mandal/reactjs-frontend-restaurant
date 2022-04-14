@@ -5,7 +5,6 @@ import { images, data } from '../../constants';
 import './SpecialMenu.css';
 
 const SpecialMenu = () => {
-  console.log(data.wines);
   return (
     <div className="app__specialMenu flex__center section__padding" id="menu">
       <div className="app__specialMenu-title">

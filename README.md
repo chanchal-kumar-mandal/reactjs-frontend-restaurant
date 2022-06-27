@@ -1,5 +1,5 @@
 ## Description
-This is advanced modern Restaurant Frontend application on reactjs functio based components. Design Link: Home 1 in https://wordpress.iqonic.design/product/wp-free/geritcht/
+This is an advanced modern Frontend Registration, Login page on ReactJs function based components. Design Link: https://projects.invisionapp.com/share/K7V8HV6Q9HM#/screens
 
 ## Live App: https://chanchal-kumar-mandal.github.io/reactjs-frontend-restaurant/
 
